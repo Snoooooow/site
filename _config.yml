@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   庆橙的小站
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
